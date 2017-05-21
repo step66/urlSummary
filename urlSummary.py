@@ -1,3 +1,5 @@
+# credits to https://github.com/xiaoxu193/PyTeaser
+
 import re
 from pyteaser import SummarizeUrl
 url = raw_input('\nEnter url to be summarized:\n')
